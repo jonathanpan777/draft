@@ -3,7 +3,7 @@
 }
 body {
 	margin: 0;
-	background: #eaedf1;
+	background: white;
 	font-family: 'Lato', sans-serif;
 }
 .header {
@@ -71,7 +71,7 @@ pre .val {color: #e6db74;} /* value */
 
 .btn-container, .container {
 	background-color: white;
-	border-radius: 4px;
+	border-radius: 50px;
 	text-align: center;
 	margin-bottom: 40px;
 }
